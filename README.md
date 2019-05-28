@@ -24,5 +24,5 @@ Public certificates of KargWare and N13.org.
 |L|localityName|"L=San Francisco"|Dingolfing|Dingolfing|
 |S|stateOrProvinceName|"S=CA"|Bayern|Bayern|
 |C|countryName|"C=US"|DE|DE|
-|STREET|Street with No|"STREET=Main Road 1"|---|---|
-|PostalCode|Zip or Postal code|"PostalCode=12345"|84130|84130|
+|STREET|street with no|"STREET=Main Road 1"|---|---|
+|PostalCode|zip or postal code|"PostalCode=12345"|84130|84130|
