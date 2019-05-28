@@ -26,3 +26,8 @@ Public certificates of KargWare and N13.org.
 |C|countryName|"C=US"|DE|DE|
 |STREET|street with no|"STREET=Main Road 1"|---|---|
 |PostalCode|zip or postal code|"PostalCode=12345"|84130|84130|
+
+Example of whole subject
+```
+"CN=My Root CA,E=E=office@company.com,O=Company Ltd,L=San Francisco,S=CA,C=US,STREET=Main Road 1,PostalCode=12345"
+```
